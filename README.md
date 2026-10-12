@@ -42,7 +42,7 @@ Stardew-Valley
 
 ### 2024/11/24
 
-- 建立项目托管 Github[仓库](https://github.com/Jackey0903/Stardew-Valley/)
+- 建立项目托管 Github[仓库](https://github.com/imhaojie/Stardew-Valley/)
 
 ### 2024/11/27
 
